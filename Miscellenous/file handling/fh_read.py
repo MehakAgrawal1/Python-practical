@@ -1,4 +1,4 @@
-#Q4. Write a Python program to read an entire text file
+#Q4. Write a Python program to read an entire text file.
 
 file1 = open("MyFile.txt","w+") 
 
