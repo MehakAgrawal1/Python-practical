@@ -1,8 +1,6 @@
-#Q2. Write a Program in Python that infinitely receives positive integer as input
-and prints its Square.If a negative number is entered then raise an Exception ,display
-a relevant Error message and Make a Graceful Exit.
+#Q2. Write a Program in Python that infinitely receives positive integer as input and prints its Square.If a negative number is entered 
+#then raise an Exception ,displaya relevant Error message and Make a Graceful Exit.
 
-'''
 try:
     while 1:
         num=int(input("Enter a Positive Number : "))
