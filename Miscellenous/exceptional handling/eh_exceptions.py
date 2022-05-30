@@ -1,5 +1,4 @@
-#Q1. Write a Program in Python to Manage Exceptions while Performing Arithmetic.
-Operation on a User Input.
+#Q1. Write a Program in Python to Manage Exceptions while Performing Arithmetic. Operation on a User Input.
 
 try:
     a=eval(input("Enter First number"))
