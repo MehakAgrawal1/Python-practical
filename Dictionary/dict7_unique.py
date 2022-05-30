@@ -1,4 +1,5 @@
 #Q7.Extract Unique Values in a Given Dictionary In a dictionary, the keys have to be unique, whereas the values can be duplicated. So, given a dictionary as shown below, how can you print all the unique values it has?
+
 D1 = {'list1': [4, 7, 10, 20], 
       'list2': [7, 16, 9, 10], 
       'list3': [13, 10, 4, 8], 
