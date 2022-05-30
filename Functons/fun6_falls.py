@@ -1,6 +1,5 @@
 #Q6.Write a Python function to check whether a number falls in a given range.
 
-
 def test_range(n):
     if n in range(3,9):
         print( " %s is in the range"%str(n))
