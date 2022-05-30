@@ -1,4 +1,4 @@
-Write a Python program to count the number of characters (character frequency) in a string.
+#Q2.Write a Python program to count the number of characters (character frequency) in a string.
 def c(str1):
     dict = {}
     for n in str1:
