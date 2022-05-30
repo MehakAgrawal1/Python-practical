@@ -1,4 +1,5 @@
 #Q6.Check if a Given Key Already Exists in Dictionary.
+
 D1 = {'first_name' : 'Jim', 'age' : 23, 'height' : 6.0 , 'job' : 'developer', 'company': 'XYZ'}
  
 def check_key(x):
