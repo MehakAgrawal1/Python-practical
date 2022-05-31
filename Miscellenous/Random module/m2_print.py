@@ -1,4 +1,4 @@
-#Q5. Printing a random value from a list.
+#Q2. Printing a random value from a list.
 
 # import random
 import random
