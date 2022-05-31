@@ -1,4 +1,4 @@
-#Q2. Write a Python program to generate a float between 0 and 1, inclusive and generate a random float within a specific range.
+#Q3. Write a Python program to generate a float between 0 and 1, inclusive and generate a random float within a specific range.
 
 import random 
 print("Generate a float between 0 and 1, inclusive:")
