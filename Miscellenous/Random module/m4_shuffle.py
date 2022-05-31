@@ -1,4 +1,4 @@
-#Q3. Write a Python program to shuffle the elements of a given list.
+#Q4. Write a Python program to shuffle the elements of a given list.
 
 import random
 l = list(range(5))
